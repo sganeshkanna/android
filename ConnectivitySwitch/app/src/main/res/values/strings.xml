@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConnectivitySwitch</string>
+    <string name="wifi_on">Turn WiFi On</string>
+    <string name="wifi_off">Turn WiFi off</string>
+    <string name="mobile_data_on">Turn Data On</string>
+    <string name="mobile_data_ff">Turn Data Off</string>
+</resources>
